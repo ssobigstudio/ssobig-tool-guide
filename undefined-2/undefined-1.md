@@ -1,20 +1,28 @@
 # 모듈 만들기
 
+> **SSOBIG TOOL 모듈이란?**
+>
+> * 모듈은 쏘빅툴의 가장 기본이 되는 구성 요소로 투표, 설문, 팀 매칭 등 참가자들과 상호작용할 수 있는 다양한 기능을 제공하는 독립적인 단위입니다.&#x20;
+> * 마치 레고 블록처럼, 이 모듈들을 조합하여 원하는 모임을 만들 수 있습니다.
+
+##
+
 ## 모듈 추가하기
+
+1. 좌측 메뉴영역에서 **\[모듈 추가]** 버튼을 클릭합니다
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/Group 24.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/Group 23 (4).png" alt=""><figcaption></figcaption></figure>
-
-1. 좌측 메뉴영역에서 **\[모듈 추가]** 버튼을 클릭합니다
 2. **\[모듈 추가]** 팝업에서 만들고 싶은 모듈을 클릭합니다
 
-<figure><img src="../.gitbook/assets/Group 24 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 23 (4).png" alt=""><figcaption></figcaption></figure>
 
 3. 생성된 모듈을 좌측 모듈리스트에 추가된 것을 확인합니다.
 4. 모듈을 클릭하면 우측에 모듈설정영역이 나타납니다.\
    (모든 모듈설정영역에는 **‘모듈 설정’**&#xACFC; **‘접근 권한’** 탭이 기본적으로 제공됩니다.)
 5. 우측뷰어영역 (편집모드에선 모듈별 미리보기가 표시) 에서 미리보기를 볼 수 있습니다.
+
+<figure><img src="../.gitbook/assets/Group 24 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,14 +74,14 @@ Tip. 자주 설정을 변경하거나, 진행 시에 결과를 쉽게 보고싶�
 
 ## 모듈 복사/삭제
 
-<figure><img src="../.gitbook/assets/Group 30.png" alt=""><figcaption><p>모듈 복사하기</p></figcaption></figure>
-
 * **복사**
   * 이미 만들어 놓은 모듈을 **복제**해, 유사한 구조의 새로운 모듈을 즉시 생성할 수 있습니다.
   * 복제 시 **질문 내용, 접근 권한 등** 설정이 그대로 복사됩니다.
 * **삭제**
   * 모듈 오른쪽 상단의 **삭제 버튼**을 사용해 모듈을 제거할 수 있습니다.
   * 삭제 후엔 **저장** 절차를 거쳐야 최종 반영되며, 복원은 불가하니 신중하게 진행하세요.
+
+<figure><img src="../.gitbook/assets/Group 30.png" alt=""><figcaption><p>모듈 복사하기</p></figcaption></figure>
 
 
 
