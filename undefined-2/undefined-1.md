@@ -44,7 +44,7 @@ icon: puzzle-piece
 2. 타이틀 수정 팝업에 변경하고 싶은 타이틀을 입력합니다. \[탭 제목 따로 설정]을 클릭하면 '탭 제목'을 따로 입력하실 수 있어요.
 3. 타이틀 수정을 완료한 후에는 꼭 **\[변경사항 저장]을 클릭**하셔야 변경이 완료됩니다 (중요!)
 
-<figure><img src="../.gitbook/assets/Group 27 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 27 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 모듈 Description 수정
 
