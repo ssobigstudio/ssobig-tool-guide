@@ -1,8 +1,10 @@
 # 모듈 만들기
 
-## 1. 모듈 추가하기
+## 모듈 추가하기
 
-<div data-full-width="true"><figure><img src="../.gitbook/assets/Group 24.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Group 23 (4).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Group 24.png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/Group 23 (4).png" alt=""><figcaption></figcaption></figure>
 
 1. 좌측 메뉴영역에서 **\[모듈 추가]** 버튼을 클릭합니다
 2. **\[모듈 추가]** 팝업에서 만들고 싶은 모듈을 클릭합니다
@@ -16,7 +18,7 @@
 
 
 
-## 2. 모듈 설정하기
+## 모듈 설정하기
 
 모든 모듈에는 \*\*‘모듈 설정’\*\*과 **‘접근 권한’** 탭이 기본적으로 제공됩니다.
 
@@ -62,7 +64,7 @@ Tip. 자주 설정을 변경하거나, 진행 시에 결과를 쉽게 보고싶�
 
 
 
-## 3. 모듈 복사/삭제
+## 모듈 복사/삭제
 
 <figure><img src="../.gitbook/assets/Group 30.png" alt=""><figcaption><p>모듈 복사하기</p></figcaption></figure>
 
