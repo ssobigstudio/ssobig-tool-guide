@@ -12,6 +12,12 @@
 1. **편집 모드 → 중앙**에 있는 **‘프레젠테이션 추가’** 버튼을 클릭합니다.
 2. **새 프레젠테이션 유형(비디오,오디오)과 제목을 설정할 수 있습니다.**
 
+<figure><img src="../.gitbook/assets/Group 52.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Group 53.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Group 54.png" alt=""><figcaption></figcaption></figure>
+
 
 
 ## 프레젠테이션 편집 옵션
