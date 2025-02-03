@@ -1,3 +1,7 @@
+---
+icon: presentation-screen
+---
+
 # 덱에 프레젠테이션 연결
 
 > **SSOBIG TOOL 프레젠테이션이란?**

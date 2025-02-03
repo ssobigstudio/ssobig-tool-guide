@@ -1,3 +1,7 @@
+---
+icon: puzzle-piece
+---
+
 # 모듈 만들기
 
 > **SSOBIG TOOL 모듈이란?**

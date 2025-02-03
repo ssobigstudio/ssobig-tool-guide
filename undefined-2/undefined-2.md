@@ -1,3 +1,7 @@
+---
+icon: puzzle
+---
+
 # 모듈을 덱에 연결하기
 
 > **SSOBIG TOOL 덱이란?**
