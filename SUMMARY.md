@@ -16,7 +16,7 @@
 * [모듈 만들기](undefined-2/undefined-1.md)
 * [모듈을 덱에 연결](undefined-2/undefined-2.md)
 * [덱에 프레젠테이션 연결](undefined-2/undefined-3.md)
-* [접근권한](undefined-2/undefined-4.md)
+* [필터시스템](undefined-2/undefined-4.md)
 
 ## 진행 모드
 
