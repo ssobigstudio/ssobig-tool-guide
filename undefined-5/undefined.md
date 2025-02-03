@@ -166,7 +166,7 @@ icon: wrench
 
 
 
-<figure><img src="../.gitbook/assets/234 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/234 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 참자가 성별 변경 방법
 
@@ -192,7 +192,7 @@ icon: wrench
 
 
 
-<figure><img src="../.gitbook/assets/45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/45 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 참가자 닉네임 변경 방법
 
