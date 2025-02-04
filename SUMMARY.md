@@ -29,7 +29,8 @@
 * [자리배치 모듈](undefined-4/undefined.md)
 * [투표 모듈](undefined-4/undefined-1.md)
 * [설문 모듈](undefined-4/undefined-2.md)
-* [점수판 모듈](undefined-4/undefined-3.md)
+* [텍스트 모듈](undefined-4/undefined-3.md)
+* [점수판 모듈](undefined-4/undefined-4.md)
 
 ## 문제해결
 
