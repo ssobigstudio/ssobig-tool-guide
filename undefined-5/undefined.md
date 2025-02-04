@@ -101,12 +101,11 @@ icon: wrench
 * **로그인 풀림**
   * 로비에서 **로그아웃** 상태일 수 있습니다.
   * 브라우저를 닫았다가 다시 열면서 **쿠키나 세션이 만료된 경우**, 자동 로그아웃이 될 수 있습니다.
-    * **입장 코드**를 한 번 입력하면 **방 목록은 그대로 유지**되며, 해당 방에 입장하면 **다시 로그인 요청**이 나타납니다.
     * 이때, 처음 로그인했던 계정(카카오, 구글 등)으로 다시 로그인하면 정상적으로 방을 접속 할 수 있습니다.
 
 
 
-<figure><img src="../.gitbook/assets/Group 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 19 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -143,10 +142,14 @@ icon: wrench
 ### **아이폰에서 카메라 권한 설정하기**
 
 1. **설정 앱**을 열고 **Safari** 또는 **Chrome**을 선택합니다.
-2. 아래로 스크롤하여 **카메라** 항목을 찾습니다.
+2. 아래로 스크롤하여 **카메라** 항목을 찾아선택합합니다.
 3. \[허용]으로 변경합니다.
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+<figure><img src="../.gitbook/assets/Group 82.png" alt=""><figcaption></figcaption></figure>
 
 
 
