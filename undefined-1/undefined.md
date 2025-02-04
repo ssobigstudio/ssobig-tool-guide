@@ -64,7 +64,5 @@ icon: user-check
 
 가격 정책 : 1명의 게스트 당 1000원의 금액이 발생합니다.&#x20;
 
-
-
 [유료버전 신청하기 ->](https://forms.gle/G86fjVkSy8ofhfY59)
 

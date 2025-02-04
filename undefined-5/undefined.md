@@ -36,6 +36,15 @@ icon: wrench
 * 카카오 로그인이 안되는 경우 구글 로그인으로 접속해주세요.
 * 아이폰의 경우 사파리 브라우저가 안되면 크롬 브라우저로 접속해주세요.
 
+
+
+
+
+### 일반 상황
+
+* 카카오 로그인이 안되는 경우 구글 로그인으로 접속해주세요.
+* 아이폰의 경우 사파리 브라우저가 안되면 크롬 브라우저로 접속해주세요.
+
 ### 쿠키 차단이 된 경우 (안드로이드)
 
 <figure><img src="../.gitbook/assets/로그인 쿠키 차단.png" alt=""><figcaption></figcaption></figure>
@@ -206,3 +215,10 @@ icon: wrench
 <figure><img src="../.gitbook/assets/3241.png" alt=""><figcaption></figcaption></figure>
 
 ***
+
+
+
+
+
+
+
