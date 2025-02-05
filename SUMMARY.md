@@ -34,5 +34,12 @@
 
 ## 문제해결
 
-* [오류 해결 가이드](undefined-5/undefined.md)
+* [오류 해결 가이드](undefined-5/undefined/README.md)
+  * [Q1. 툴에 접속이 안돼요!](undefined-5/undefined/q1..md)
+  * [Q2. 로그인이 안되는데 어떡하죠?](undefined-5/undefined/q2..md)
+  * [Q3. 방이 안보여요!](undefined-5/undefined/q3..md)
+  * [Q4. QR코드 카메라가 안떠요.](undefined-5/undefined/q4.-qr-..md)
+  * [Q5. 글자가 겹쳐보여요!](undefined-5/undefined/q5..md)
+  * [Q1. 성별 없음으로 로그인 한 경우](undefined-5/undefined/q1.-1.md)
+  * [Page](undefined-5/undefined/page.md)
 * [지원 받기](undefined-5/undefined-1.md)
