@@ -15,7 +15,9 @@
 * 이는 소통 콘텐츠내에서 참가자들이 모이는 넓은 물리적 또는 가상 공간을 의미하며, 여러 구역으로 나누어 활동할 수 있습니다.
 * 예를 들어, A구역, B구역,C구역 등으로 나누어 참가자들이 특정 영역에서만 활동하도록 구성할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/자리배치 구역 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,9 +27,9 @@
 * 이는 각 참가자가 어떤 그룹에 속해 있는지를 나타내며, 같은 구역 내에서도 여러 팀이 존재할 수 있습니다.
 * 예를 들어, 같은 A구역 내에 서로 다른 팀으로 분류되어 있거나, 같은 팀의 구성원이 여러 구역에 흩어져 있을 수도 있습니다.
 
+<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 
-<figure><img src="../.gitbook/assets/자리배치 2.png" alt=""><figcaption></figcaption></figure>
 
 ### **역할 (**&#x52;ol&#x65;**)**
 
@@ -37,7 +39,9 @@
 
 
 
-<figure><img src="../.gitbook/assets/자리배치 역할 1.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 > 요약
 >
@@ -65,7 +69,9 @@
 
 
 
-<figure><img src="../.gitbook/assets/자리배치 3 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -94,20 +100,21 @@
 
 
 
-<figure><img src="../.gitbook/assets/자리배치 5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 자동 및 수동 배치 옵션
 
-* **자동 배치** :
-  * 미리 설정한 셔플 방법,분배 방법(예: 팀 이동,팀 재편성 등)에 따라 참가자들을 자동으로 배정합니다.
-  * 원하는 셔플,분배 방법을 설정 한 후 섞기를 누르고 \*\*\[플레이어변경 반영]\*\*을 눌르면 변경이 완료 됩니다.
-  * 자동 배치 실행 후, 결과를 자리배치 상세 설정에서 확인 할 수 있습니다.
+*   **자동 배치** :
+
+    * 미리 설정한 셔플 방법,분배 방법(예: 팀 이동,팀 재편성 등)에 따라 참가자들을 자동으로 배정합니다.
+    * 원하는 셔플,분배 방법을 설정 한 후 섞기를 누르고 \*\*\[플레이어변경 반영]\*\*을 눌르면 변경이 완료 됩니다.
+    * 자동 배치 실행 후, 결과를 자리배치 상세 설정에서 확인 할 수 있습니다.
 
 
 
-<figure><img src="../.gitbook/assets/자리배치 6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -121,14 +128,16 @@
 
 
 
-<figure><img src="../.gitbook/assets/자리배치 7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **수동 배치**:
   * 자동 배치 후에도 개별 참가자를 클릭해서 다른 구역,팀으로 자유롭게 이동할 수 있습니다
 
-<figure><img src="../.gitbook/assets/자리배치 8 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -145,11 +154,36 @@
 
 <figure><img src="../.gitbook/assets/자리배치 역할 2.png" alt=""><figcaption></figcaption></figure>
 
-
-
 * **역할 상세 설정 :**
   * 역할 상세 설정은 \[**구역 및 팀 상세 설정**]과 동일 합니다.
   * 기본 역할을 바꾸려면 **\[일반맴버]** 역할을 수정하세요. 혹은 **\[일반맴버]** 역할을 지우고 다른 역할을 기본 역할로 지정하세요.
+
+
+
+
+
+
+
+
+
+* **역할 분배:**
+  * 편집 완료된 역할을 기반으로 자동 분배할 수 있습니다.
+  * **\[역할 재분배]** 버튼을 누르면, 미리 설정한 각 역할의 인원수만큼 팀 내 참가자에게 자동으로 할당되며, 설정 인원수가 충족된 후 남은 인원은 기본 역할로 지정됩니다.
+    * \*\*\[플레이어변경 반영]\*\*을 누르셔야 확정됩니다.
+
+
+
+
+
+<figure><img src="../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* 또한, 수동으로 역할을 할당할 수도 있습니다.
+  * \*\*수동 할당 방법:\*\*자리배치 상세 설정 → 플레이어 선택 → 위로 스크롤 → 역할 선택 → 원하는 역할 클릭하여 할당합니다.
+    * \*\*\[플레이어변경 반영]\*\*을 누르셔야 확정됩니다.
+
+
 
 
 
