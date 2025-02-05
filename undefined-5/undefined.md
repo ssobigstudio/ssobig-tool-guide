@@ -30,7 +30,7 @@ icon: wrench
 
 
 
-### [Q1. 성별 없음으로 로그인 한 경우](undefined/q1.-1.md)
+### [Q1. 성별 없음 방지 설정](undefined/q1.-1.md)
 
 
 
