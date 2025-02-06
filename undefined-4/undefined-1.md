@@ -42,14 +42,14 @@
 
 ### 문자열 특징
 
-* **고정된 목록**
-  * 미리 정해진 텍스트 옵션들을 플레이어가 선택할 수 있음
-  * 예) "빨강", "파랑", "초록" 색상 투표
-* **복사 & 붙여넣기**
-  * **\[보기 한번에 추가]** 기능을 활용하면, 여러 텍스트를 한 번에 등록 가능
-  * 항목별로 개행(한 줄씩) 구분이 필수
-* **간단하고 직관적**
-  * 어떤 속성(플레이어, 팀 등)과 연계되지 않고, 순수하게 텍스트 표시만 수행
+1. **고정된 목록**
+   * 미리 정해진 텍스트 옵션들을 플레이어가 선택할 수 있음
+   * 예) "빨강", "파랑", "초록" 색상 투표
+2. **복사 & 붙여넣기**
+   * **\[보기 한번에 추가]** 기능을 활용하면, 여러 텍스트를 한 번에 등록 가능
+   * 항목별로 개행(한 줄씩) 구분이 필수
+3. **간단하고 직관적**
+   * 어떤 속성(플레이어, 팀 등)과 연계되지 않고, 순수하게 텍스트 표시만 수행
 
 <figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -207,7 +207,9 @@
 
 
 
-<figure><img src="../.gitbook/assets/투표 1.jpg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/ㄱ1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **보기 제거 하기**
   * 각 보기는 오른쪽에 있는 **X 버튼**을 클릭하여 개별적으로 제거할 수 있습니다.
@@ -225,7 +227,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/투표 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㄱ2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -237,7 +239,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/투표 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㄱ3.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -255,7 +257,9 @@
 
 
 
-<figure><img src="../.gitbook/assets/선택 가능 수.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/ㄱ4.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -277,13 +281,13 @@
 
     투자모드는 베팅, 경매 게임 등에서 전략적으로 자원을 배분하며 승부를 겨루는 상황에서 유용하게 쓰입니다.
 
-\[투자 모드를 활용한 마피아 게임 템플릿 - 불면증 마피아]
 
 
 
 
 
-<figure><img src="../.gitbook/assets/투자 모드.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ㄱ5.png" alt=""><figcaption></figcaption></figure>
 
 ### 선착순 모드
 
@@ -301,7 +305,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/선착순 몯,.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㄱ6.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -314,9 +318,7 @@
 
     다른 플레이어들의 응답 현황을 화면에 표시할지 여부를 결정할 수 있습니다.
 
-
-
-<figure><img src="../.gitbook/assets/응답 설정.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ㄱ7.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
