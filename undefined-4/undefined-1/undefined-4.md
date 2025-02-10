@@ -1,4 +1,4 @@
-# 밸런스 투표
+# 밸런스
 
 > **SSOBIG TOOL 밸런스 모듈이란?**
 >
@@ -44,7 +44,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/밸런스 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/밸런스 1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

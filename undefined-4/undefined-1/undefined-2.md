@@ -1,4 +1,4 @@
-# 설문 모듈
+# 설문
 
 > **SSOBIG TOOL 설문 모듈이란?**
 >
@@ -26,14 +26,14 @@
 * **이미지 응답**
   * 플레이어가 이미지를 업로드하여 답변할 수 있는 형식으로, 시각적인 자료를 수집하거나 사진 기반의 답변이 필요한 경우 사용합니다.
 
-<figure><img src="../.gitbook/assets/ㄴ1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄴ1.png" alt=""><figcaption></figcaption></figure>
 
 #### 텍스트작성 양식 수정
 
 * 텍스트 응답을 받을 때, 플레이어가 입력할 **응답 형식**(예: 단일 줄, 여러 줄 등)을 세부적으로 설정할 수 있습니다.
 * 이를 통해 원하는 방식으로 답변을 수집하거나, 특정 형식을 요구할 수 있어, 보다 명확하고 일관된 데이터를 얻을 수 있습니다.
 
-<figure><img src="../.gitbook/assets/ㄴ2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄴ2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄴ3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄴ3.png" alt=""><figcaption></figcaption></figure>
 
 
 

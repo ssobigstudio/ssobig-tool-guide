@@ -1,4 +1,4 @@
-# 가중치 모듈
+# 가중치
 
 > **SSOBIG TOOL 가중치 모듈이란?**
 >
@@ -37,7 +37,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/가중치 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/가중치 1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

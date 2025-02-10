@@ -1,4 +1,4 @@
-# 결과 모듈
+# 결과
 
 > **SSOBIG TOOL 결과 모듈이란?**
 >
@@ -27,7 +27,7 @@
   * 해당 결과 모듈에서 표시할 모듈을 지정합니다.
   * 투표 리스트에서 “투표 A, B, C” 중 어떤 것을 불러올지 선택하면, 그 투표의 최종 결과가 표시됩니다.
 
-<figure><img src="../.gitbook/assets/ㅂ5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ5.png" alt=""><figcaption></figcaption></figure>
 
 #### 응답한 플레이어 필터
 
@@ -37,7 +37,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㅂ1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㅂ2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ2.png" alt=""><figcaption></figcaption></figure>
 
 #### 설문 참조시 작성자 이름 표시
 
@@ -66,7 +66,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㅂ3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ3.png" alt=""><figcaption></figcaption></figure>
 
 #### 삭제된 응답 처리
 
@@ -75,7 +75,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㅂ4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ4.png" alt=""><figcaption></figcaption></figure>
 
 ### 설문 결과
 
@@ -88,4 +88,4 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㅂ6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㅂ6.png" alt=""><figcaption></figcaption></figure>

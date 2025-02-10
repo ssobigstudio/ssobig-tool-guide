@@ -1,4 +1,4 @@
-# 투표 모듈
+# 투표
 
 > **SSOBIG TOOL 투표 모듈이란?** \
 > **투표 모듈**은 SSOBIG 툴에서 제공하는 **독립적인 구성 요소** 중 하나로, \
@@ -56,7 +56,7 @@
 3. **간단하고 직관적**
    * 어떤 속성(플레이어, 팀 등)과 연계되지 않고, 순수하게 텍스트 표시만 수행
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="플레이어" %}
@@ -75,7 +75,7 @@
 4. **실시간 정보**
    * 플레이어의 상태(예: 변경된 닉네임, 역할 이동)가 즉시 반영되므로 **유연한 투표** 진행이 가능합니다.
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="이전 설문결과" %}
@@ -97,7 +97,7 @@
    * \[투표 모듈]에서 **이전 설문결과**를 가져와, “베스트 3”를 뽑는 인기 투표 진행
    * 플레이어들은 이전 단계에서 나온 실제 응답을 선택지로 보고, 최종 의사결정에 참여
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="팀" %}
@@ -115,7 +115,7 @@
    * 특정 조건으로 “팀 = 1만 표시”, “팀 ≠ 내 팀”만 노출 등 상세 설정 가능.
    * 여러 팀 중 일부만 투표 대상에 넣거나, 자신이 속한 팀은 제외하는 등의 제한이 가능.
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="구역" %}
@@ -133,7 +133,7 @@
    * “구역 = A만 보이기”, “구역 ≠ 본인 구역” 등 조건을 적용해 특정 구역만 표시하거나,
    * 자신이 속한 구역을 제외하고 다른 구역만 보이도록 설정할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="자원" %}
@@ -150,7 +150,7 @@
 3. **자원 필터(선택 사항)**
    * "내가 보유한 자원만" , "내가 보유하지 않은 자원만" 같은 자원 필터로 특정 자원만 보이도록 설정 할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="역할" %}
@@ -167,7 +167,7 @@
 3. **역할 배정**&#x20;
    * 투표 결과를 기반으로, 특정 플레이어에게 역할을 할당(**액션 버튼** 기능)
 
-<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -214,7 +214,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ1 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **보기 제거 하기**
   * 각 보기는 오른쪽에 있는 **X 버튼**을 클릭하여 개별적으로 제거할 수 있습니다.
@@ -232,7 +232,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ2.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -244,7 +244,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ3.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -264,7 +264,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ4.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -272,7 +272,7 @@
 
 *   **자원 투자 기능**
 
-    플레이어들은 보유한 자원([점수판 모듈](undefined-7.md))을 사용해 선택지에 투자할 수 있습니다.
+    플레이어들은 보유한 자원([점수판 모듈](undefined-11.md))을 사용해 선택지에 투자할 수 있습니다.
 *   **선택 가능 수 제한**
 
     이 기능은 선택 가능 수가 1개일 때만 활성화되며, 자원이 없는 경우에는 투자를 진행할 수 없습니다.
@@ -292,7 +292,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ5.png" alt=""><figcaption></figcaption></figure>
 
 ### 선착순 모드
 
@@ -310,7 +310,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/ㄱ6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ6.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -323,7 +323,7 @@
 
     다른 플레이어들의 응답 현황을 화면에 표시할지 여부를 결정할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/ㄱ7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ㄱ7.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

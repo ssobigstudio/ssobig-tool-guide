@@ -1,4 +1,4 @@
-# 자리배치 모듈
+# 자리배치
 
 > **SSOBIG TOOL 자리배치 모듈이란?** \
 > **자리배치 모듈**은 SSOBIG 툴에서 제공하는 **독립적인 구성 요소** 중 하나로, \
@@ -26,7 +26,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,21 +36,21 @@
 * 이는 각 참가자가 어떤 그룹에 속해 있는지를 나타내며, 같은 구역 내에서도 여러 팀이 존재할 수 있습니다.
 * 예를 들어, 같은 A구역 내에 서로 다른 팀으로 분류되어 있거나, 같은 팀의 구성원이 여러 구역에 흩어져 있을 수도 있습니다.
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### **역할 (**&#x52;ol&#x65;**)**
 
 * 역할은 참가자의 **개인 속성**을 나타내는 개념입니다.
-* 개인 속성으로 [\[접근 권한\],\[보기 필터\]](../undefined-2/undefined-4.md) 를 걸어 다양한 인터랙션이 가능합니다.
+* 개인 속성으로 [\[접근 권한\],\[보기 필터\]](../../undefined-2/undefined-4.md) 를 걸어 다양한 인터랙션이 가능합니다.
 * 참가자는 하나의 역할만 부여 받을 수 있습니다.
 
 
 
 
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 > 요약
 >
@@ -88,7 +88,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -145,7 +145,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -169,7 +169,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -216,7 +216,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -248,7 +248,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/익명 로그인 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/익명 로그인 4.png" alt=""><figcaption></figcaption></figure>
 
 ### 사용 방법
 
