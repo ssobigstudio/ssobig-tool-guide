@@ -30,7 +30,27 @@ icon: filter
 
 
 
+
+
+{% hint style="info" %}
+여러가지 필터를 AND , OR 을 통해 연결 할 수 있습니다.
+
+**AND**&#x20;
+
+* 두 조건이 모두 만족해야 결과가 참이 됩니다.&#x20;
+  * 예: "팀 = 팀1 AND 성별 = 남성"은 팀1에 속하고 성별이 남성인 플레이어들이 해당됩니다.
+
+**OR**&#x20;
+
+* 하나의 조건만 만족해도 결과가 참이 됩니다.&#x20;
+  * 예: "구역 = A OR 구역 = B"는 A 구역 또는 B 구역에 속한 플레이어들을 해당됩니다.
+{% endhint %}
+
+
+
 <figure><img src="../.gitbook/assets/필터 1.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 필터 사용 예시 및 방법
 
