@@ -69,6 +69,26 @@ icon: filter
 
 
 
+### 플레이어 필터 이미지 설명
+
+
+
+<figure><img src="../.gitbook/assets/보기 필터.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+### 접근 권한 이미지 설명
+
+
+
+
+
+<figure><img src="../.gitbook/assets/접근 권한.png" alt=""><figcaption></figcaption></figure>
+
+
+
 아래에서 각 방법의 예시와 자세한 사용 방법을 알려드리겠습니다.
 
 
