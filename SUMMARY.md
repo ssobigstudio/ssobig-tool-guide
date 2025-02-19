@@ -36,6 +36,7 @@
   * [표시할 플레이어 정보](undefined-4/undefined/undefined-6.md)
   * [표시할 응답 목록](undefined-4/undefined/undefined-7.md)
   * [표시할 자원 목록](undefined-4/undefined/undefined-8.md)
+  * [구역,팀,아이템 QR 코드](undefined-4/undefined/qr.md)
 * [모듈별 가이드](undefined-4/undefined-1/README.md)
   * [자리배치](undefined-4/undefined-1/undefined.md)
   * [투표](undefined-4/undefined-1/undefined-1.md)

@@ -18,4 +18,6 @@
 
 ## [표시할 응답 목록](undefined-7.md)
 
-## [자원](undefined-8.md)
+## [표시할 자원 목록](undefined-8.md)
+
+## [구역,팀,아이템 QR 코드](qr.md)
