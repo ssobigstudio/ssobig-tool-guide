@@ -4,8 +4,6 @@
 
 #### [응답 설정](undefined.md)
 
-#### [보기 유형](undefined-1.md)
-
 #### [현황](undefined-2.md)
 
 #### [답변 보기](undefined-3.md)

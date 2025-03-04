@@ -7,7 +7,7 @@
 
 ## 시작하기
 
-* [기본 준비사항](undefined-1/undefined.md)
+* [쏘빅 툴 로그인](undefined-1/undefined.md)
 * [첫 방 만들기](undefined-1/publish-your-docs.md)
 
 ## 편집 모드
