@@ -8,6 +8,6 @@
 
 [보기 설정 ](undefined-1.md)
 
-액션 설정&#x20;
+[액션 설정](undefined-2.md)
 
 [진행관리](undefined-3.md)
