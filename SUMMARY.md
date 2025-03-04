@@ -8,6 +8,7 @@
 ## 시작하기
 
 * [로그인 및 계정설정](undefined-1/undefined.md)
+* [메뉴 탭 구성](undefined-1/undefined-1.md)
 * [첫 방 만들기](undefined-1/publish-your-docs.md)
 
 ## 편집 모드
