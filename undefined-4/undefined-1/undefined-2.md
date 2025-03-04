@@ -45,12 +45,12 @@
 
 ### 현황 <a href="#undefined-10" id="undefined-10"></a>
 
-* 현재 투표의 응답 현황(누가 응답했는지, 누가 응답하지 않았는지 등)은 [현황](../undefined/undefined-2.md) 페이지에서 확인할 수 있습니다.
+* 현재 투표의 응답 현황(누가 응답했는지, 누가 응답하지 않았는지 등)은 [현황](broken-reference) 페이지에서 확인할 수 있습니다.
 
 ### 답변 보기 <a href="#undefined-11" id="undefined-11"></a>
 
-* 각 플레이어가 제출한 답변의 상세 내역은 [답변 보기](../undefined/undefined-3.md) 페이지에서 확인할 수 있습니다.
+* 각 플레이어가 제출한 답변의 상세 내역은 [답변 보기](broken-reference) 페이지에서 확인할 수 있습니다.
 
 ### 제출한 응답 초기화 <a href="#undefined-12" id="undefined-12"></a>
 
-* 플레이어들이 제출한 응답을 초기화하는 방법은 [응답 초기화](../undefined/undefined-4.md) 페이지를 참조하세요.
+* 플레이어들이 제출한 응답을 초기화하는 방법은 [응답 초기화](broken-reference) 페이지를 참조하세요.
