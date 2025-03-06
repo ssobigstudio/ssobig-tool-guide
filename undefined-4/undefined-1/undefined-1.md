@@ -1,13 +1,13 @@
 # 투표
 
+
+
 > **SSOBIG TOOL 투표 모듈이란?** \
 > **투표 모듈**은 SSOBIG 툴에서 제공하는 **독립적인 구성 요소** 중 하나로, \
 > 플레이어에게 **하나 이상의 선택지**를 제시하고 **실시간 결과**를 집계・시각화하는 **상호작용 기능**입니다. 이를 통해 **신속한 의견 수렴**과 **의사 결정**이 가능하며, \
 > 찬반 투표부터 선호도 조사·매칭 투표까지 다양한 형식으로 활용할 수 있습니다.
 
-
-
-<figure><img src="../../.gitbook/assets/투표 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 6.png" alt=""><figcaption></figcaption></figure>
 
 ## 핵심 기능
 

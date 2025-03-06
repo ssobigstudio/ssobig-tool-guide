@@ -8,6 +8,8 @@
 
 
 
+<figure><img src="../../.gitbook/assets/Frame 1707482380.png" alt=""><figcaption></figcaption></figure>
+
 ## 핵심 기능
 
 * **양자택일(이분 선택) 투표:**\

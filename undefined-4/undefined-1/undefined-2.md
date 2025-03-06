@@ -4,9 +4,7 @@
 >
 > **설문 모듈**은 SSOBIG 툴에서 제공하는 **독립적인 구성 요소**로, 플레이어들이 **다양한 형식(텍스트, 숫자, 이미지 등)으로 응답**을 제출할 수 있도록 하여, **실시간으로 데이터를 수집**하고 **결과를 시각화**할 수 있게 해주는 **상호작용 기능**입니다. 이를 통해 **피드백 수집**, **인사이트 도출**, **단계별 의사결정** 등 폭넓은 활용이 가능합니다.
 
-
-
-<figure><img src="../../.gitbook/assets/설문.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 1707482377.png" alt=""><figcaption></figcaption></figure>
 
 ## 핵심 기능
 
