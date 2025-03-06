@@ -10,7 +10,7 @@ icon: solar-panel
 
 
 
-#### [응답 설정](undefined.md)
+[응답 설정](undefined.md)
 
 [보기 설정 ](undefined-1.md)
 
