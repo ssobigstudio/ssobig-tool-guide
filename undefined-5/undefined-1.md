@@ -10,11 +10,11 @@ icon: comment-smile
 
 ### 문의 방법
 
-* 카카오 채널 톡 문의
-  * **주소:** [http://pf.kakao.com/\_XfQVn](http://pf.kakao.com/_XfQVn)
+* 슬랙 채널 문의
+  * **주소:**[ ](https://dis.qa/hKclNB)[https://dis.qa/hKclNB](https://dis.qa/hKclNB)
   * 문제 발생 시각, 사용 중인 브라우저와 기기 정보, 상황 설명, 스크린샷 등을 함께 첨부해 주시면 신속하게 지원해 드립니다. 📧
-* **실시간 상담**
-  * 운영 시간 내 제공되는 실시간 채팅이나 전화 상담 서비스를 이용하시면, 즉각적인 도움을 받으실 수 있습니다. 💬📞
+
+
 
 ***
 
